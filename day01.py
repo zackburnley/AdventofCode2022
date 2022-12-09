@@ -1,4 +1,4 @@
-with open('puzzle1.txt') as f:
+with open('puzzle01.txt') as f:
     elves = [0]
     max1 = 0
     sum1 = 0

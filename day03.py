@@ -1,4 +1,4 @@
-with open('puzzle3.txt') as f:
+with open('puzzle03.txt') as f:
     sum, prio = 0, 0
     for line in f:
         line = line.strip()
@@ -16,7 +16,7 @@ with open('puzzle3.txt') as f:
                 break
     print("Part 1:", sum)
 ############################################################################
-with open('puzzle3.txt') as g:
+with open('puzzle03.txt') as g:
     count, sum2, = 1, 0
     elf1, elf2, elf3 = "", "", ""
     for line in g:

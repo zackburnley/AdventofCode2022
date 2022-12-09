@@ -1,4 +1,4 @@
-with open('puzzle7.txt') as f:
+with open('puzzle07.txt') as f:
     dirs = {"/": {"parentDir": "",
                   "files": {},
                   "childDirs": [],

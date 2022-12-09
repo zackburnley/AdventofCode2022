@@ -1,4 +1,4 @@
-with open("puzzle8.txt") as f:
+with open("puzzle08.txt") as f:
     trees, count, treescores = [], 0, []
     for line in f:
         line = line.strip()

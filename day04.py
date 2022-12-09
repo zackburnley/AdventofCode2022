@@ -1,4 +1,4 @@
-with open('puzzle4.txt') as f:
+with open('puzzle04.txt') as f:
     count = 0
     for line in f:
         line = line.strip()
@@ -16,7 +16,7 @@ with open('puzzle4.txt') as f:
             count += 1
     print("Part 1:", count)
 #######################################################################
-with open('puzzle4.txt') as f:
+with open('puzzle04.txt') as f:
     count = 0
     for line in f:
         line = line.strip()

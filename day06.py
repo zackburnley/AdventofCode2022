@@ -1,4 +1,4 @@
-with open('puzzle6.txt') as f:
+with open('puzzle06.txt') as f:
     for line in f:
         line = line.strip()
         line = list(line)

@@ -1,4 +1,4 @@
-with open('puzzle5.txt') as f:
+with open('puzzle05.txt') as f:
     stacks = [
         [],
         ['R', 'G', 'H', 'Q', 'S', 'B', 'T', 'N'],
@@ -29,7 +29,7 @@ with open('puzzle5.txt') as f:
         i += 1
     print("Part 1:", msg)
 ######################################################################
-with open('puzzle5.txt') as f:
+with open('puzzle05.txt') as f:
     stacks = [
         [],
         ['R', 'G', 'H', 'Q', 'S', 'B', 'T', 'N'],

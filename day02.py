@@ -1,4 +1,4 @@
-with open('puzzle2.txt') as f:
+with open('puzzle02.txt') as f:
     opponent = ""
     me = ""
     score1 = 0
@@ -29,7 +29,7 @@ with open('puzzle2.txt') as f:
                 score1 += 6
     print("Part 1:", score1)
 #####################################################################
-with open('puzzle2.txt') as g:
+with open('puzzle02.txt') as g:
     opponent = ""
     me = ""
     score2 = 0
